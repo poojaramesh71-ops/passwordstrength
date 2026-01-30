@@ -27,4 +27,4 @@ password = input("Enter password: ")
 result = check_password_strength(password)
 
 print("Password Status:", result)
-
+
